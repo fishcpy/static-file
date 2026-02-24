@@ -85,21 +85,41 @@
 			"https://www.afo.im/",
 			"https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5"
 		],
-		["青序栈", "https://www.qixz.cn/", "https://www.qixz.cn/favicon.svg"],
+		[
+			"青序栈",
+			"https://www.qixz.cn/",
+			"https://www.qixz.cn/favicon.svg"
+		],
 		[
 			"Noah'blog",
 			"https://blog.noah0932.top",
 			"https://cdn.tulan.cyou/2025/06/29/Image_13149668686090.jpg"
 		],
-		["Stanley", "https://lixvyao.com", "https://main.lixvyao.com/favicon.png"],
+		[
+			"Stanley",
+			"https://lixvyao.com",
+			"https://main.lixvyao.com/favicon.png"
+		],
 		[
 			"小枫的Blog",
 			"https://blog.zicheng.icu",
 			"https://q.qlogo.cn/headimg_dl?dst_uin=1432777209&spec=640&img_type=jpg"
 		],
-		["Pinpe 的云端", "https://pinpe.top", "https://pinpe.top/head.jpg"],
-		["幽默的小刘吖", "https://lzch.top", "https://lzch.top/favicon.png"],
-		["AirTouch", "https://xsl.im", "https://xsl.im/avatar_full.webp"],
+		[
+			"Pinpe 的云端",
+			"https://pinpe.top",
+			"https://pinpe.top/head.jpg"
+		],
+		[
+			"幽默的小刘吖",
+			"https://lzch.top",
+			"https://lzch.top/favicon.png"
+		],
+		[
+			"AirTouch",
+			"https://xsl.im",
+			"https://xsl.im/avatar_full.webp"
+		],
 		[
 			"或许是一只龙",
 			"https://www.497995.xyz",
@@ -192,8 +212,8 @@
 		],
 		[
 			"THW's Blog",
-			"https://thw.lol",
-			"https://img.dooki.cloud/i/2025/08/29/68b09e116c4b6.webp"
+			"https://blog.tianhw.top",
+			"https://image.tianhw.top/avatar.webp"
 		],
 		[
 			"ZY知识库",
@@ -214,6 +234,36 @@
 			"GoodBoyboy 's Blog",
 			"https://blog.goodboyboy.top",
 			"https://gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
+		],
+		[
+			"CappuccinoZ's Blog",
+			"https://kitakita.top",
+			"https://kitakita.top/img/avatar2.png"
+		],
+		[
+			"Yunsen的小窝",
+			"https://blog.imysen.com/",
+			"https://img.alicdn.com/bao/uploaded/i4/O1CN01TWOpM42DSyY5nC0hM_!!0-mtopupload.jpg"
+		],
+		[
+			"worable's Blog",
+			"https://www.worable.top/",
+			"https://www.worable.top/wp-content/uploads/2026/02/2026020109015019.jpg"
+		],
+		[
+			"Hantaの天境小屋🥝",
+			"https://blog.hanta2011.top/",
+			"https://q1.qlogo.cn/g?b=qq&nk=2667174454&s=640"
+		],
+		[
+			"xhc861's Blog",
+			"https://xhc861.top",
+			"https://avatars.githubusercontent.com/u/99964145"
+		],
+		[
+			"NGC7293的星域",
+			"https://xmk.life",
+			"https://xmk.life/ngc7293.png"
 		]
 	]
 }
