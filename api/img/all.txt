@@ -1,2 +1,3 @@
 mc=https://file.fis.ink/api/img/mc.txt
 aqtw=https://file.fis.ink/api/img/aqtw.txt
+end=https://file.fis.ink/api/img/end.txt
